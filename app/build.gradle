@@ -21,7 +21,7 @@ apply plugin: 'com.android.application'
 def twaManifest = [
     applicationId: 'app.r34.android',
     hostName: 'r34.app', // The domain being opened in the TWA.
-    launchUrl: '/?origin=android', // The start path for the TWA. Must be relative to the domain.
+    launchUrl: '/?origin=Android', // The start path for the TWA. Must be relative to the domain.
     name: 'Rule 34 App', // The name shown on the Android Launcher.
     themeColor: '#121212', // The color used for the status bar.
     navigationColor: '#1e2124', // The color used for the navigation bar.
@@ -34,7 +34,7 @@ def twaManifest = [
     // - icon: Name of the resource in the drawable folder to use as an icon.
     shortcuts: [
         // Insert shortcuts here, for example:
-        [name: 'Open settings', short_name: 'Settings', url: '/settings', icon: 'splash']
+        [name: 'Settings', short_name: 'Settings', url: '/settings', icon: 'splash']
     ],
     // The duration of fade out animation in milliseconds to be played when removing splash screen.
     splashScreenFadeOutDuration: 300
