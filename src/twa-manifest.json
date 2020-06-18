@@ -1,0 +1,24 @@
+{
+  "packageId": "app.r34.twa",
+  "host": "r34.app",
+  "name": "Rule 34 App",
+  "launcherName": "Rule 34 App",
+  "themeColor": "#121212",
+  "navigationColor": "#000000",
+  "backgroundColor": "#121212",
+  "enableNotifications": false,
+  "startUrl": "/?utm_source=TWA",
+  "iconUrl": "https://r34.app/_nuxt/icons/icon_512.307d7e.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "alias": "android",
+    "path": "./android.keystore"
+  },
+  "appVersionName": "1",
+  "appVersionCode": 1,
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://r34.app/_nuxt/manifest.2e2714b0.json",
+  "fallbackType": "customtabs",
+  "appVersion": "1"
+}
