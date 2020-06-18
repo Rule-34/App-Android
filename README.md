@@ -1,7 +1,22 @@
 # Rule 34 App - Android
 
-This is the Android Studio project for creating an APK for the Rule 34 PWA using TWA.
+This project generates an android APK using TWA thanks to [Bubblewrap](https://github.com/GoogleChromeLabs/bubblewrap)
 
-Download the [latest .apk](app/release/app-release.apk)
+## Download
 
-> This project is abandoned as TWA still uses your browser, feeding its history data.
+[Latest .APK](src/app-release-signed.apk)
+
+## Development
+
+- Install JDK8
+- Install Android Studio CLI
+- Install Bubblewrap CLI
+- Paste the secret `android.keystore` to .src/
+
+```sh
+# Init
+bubblewrap init --manifest https://r34.app/_nuxt/manifest.<UNKNOWN>.json
+
+# Build
+bubblewrap build --skipPwaValidation
+```
