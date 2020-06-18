@@ -45,9 +45,9 @@ android {
     defaultConfig {
         applicationId twaManifest.applicationId
         minSdkVersion 16
-        versionCode 4
-        versionName "2.0.1"
         targetSdkVersion 30
+        versionCode 5
+        versionName "2.0.2"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
 
         // The name for the application on the Android Launcher
