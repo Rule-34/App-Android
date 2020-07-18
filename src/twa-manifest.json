@@ -17,7 +17,13 @@
   },
   "appVersionName": "2",
   "appVersionCode": 2,
-  "shortcuts": [],
+  "shortcuts": [
+    {
+      "name": "Settings",
+      "shortName": "Settings",
+      "url": "/settings"
+    }
+  ],
   "generatorApp": "bubblewrap-cli",
   "webManifestUrl": "https://r34.app/_nuxt/manifest.2e2714b0.json",
   "fallbackType": "customtabs",
