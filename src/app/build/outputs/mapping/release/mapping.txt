@@ -1,7 +1,7 @@
 # compiler: R8
 # compiler_version: 1.5.69
 # min_api: 19
-# pg_map_id: 26f3189
+# pg_map_id: 34efe34
 android.support.customtabs.ICustomTabsCallback -> a.a.a.a:
     void onMessageChannelReady(android.os.Bundle) -> a
     void onNavigationEvent(int,android.os.Bundle) -> a
@@ -3078,6 +3078,7 @@ androidx.browser.trusted.TokenContents -> b.c.c.f:
     void parseIfNeeded() -> c
 androidx.browser.trusted.TokenStore -> b.c.c.g:
     androidx.browser.trusted.Token load() -> a
+    void store(androidx.browser.trusted.Token) -> a
 androidx.browser.trusted.TrustedWebActivityDisplayMode -> b.c.c.h:
     android.os.Bundle toBundle() -> a
 androidx.browser.trusted.TrustedWebActivityDisplayMode$DefaultMode -> b.c.c.h$a:
@@ -5689,16 +5690,15 @@ com.google.androidbrowserhelper.trusted.LauncherActivityMetadata -> com.google.a
 com.google.androidbrowserhelper.trusted.SharedPreferencesTokenStore -> com.google.androidbrowserhelper.trusted.j:
     android.content.Context mContext -> a
     androidx.browser.trusted.Token load() -> a
-    void setVerifiedProvider(java.lang.String,android.content.pm.PackageManager) -> a
     void store(androidx.browser.trusted.Token) -> a
 com.google.androidbrowserhelper.trusted.TwaLauncher -> com.google.androidbrowserhelper.trusted.k:
     android.content.Context mContext -> a
+    androidx.browser.trusted.TokenStore mTokenStore -> g
     androidx.browser.customtabs.CustomTabsSession mSession -> f
     com.google.androidbrowserhelper.trusted.TwaLauncher$FallbackStrategy WEBVIEW_FALLBACK_STRATEGY -> j
     com.google.androidbrowserhelper.trusted.TwaLauncher$TwaCustomTabsServiceConnection mServiceConnection -> e
     com.google.androidbrowserhelper.trusted.TwaLauncher$FallbackStrategy CCT_FALLBACK_STRATEGY -> i
     int mSessionId -> d
-    com.google.androidbrowserhelper.trusted.SharedPreferencesTokenStore mTokenStore -> g
     boolean mDestroyed -> h
     java.lang.String mProviderPackage -> b
     int mLaunchMode -> c

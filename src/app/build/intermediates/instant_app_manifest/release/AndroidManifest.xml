@@ -24,8 +24,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="app.r34.twa"
     android:targetSandboxVersion="2"
-    android:versionCode="1"
-    android:versionName="1" >
+    android:versionCode="2"
+    android:versionName="2" >
 
     <uses-sdk
         android:minSdkVersion="19"

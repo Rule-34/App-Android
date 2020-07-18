@@ -1,10 +1,10 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:22:1-119:12
-INJECTED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:22:1-119:12
-INJECTED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:22:1-119:12
-INJECTED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:22:1-119:12
-MERGED from [com.google.androidbrowserhelper:androidbrowserhelper:1.3.0] C:\Users\alexr\.gradle\caches\transforms-2\files-2.1\55e48e5aafe2662b666e5be86ed8a2da\androidbrowserhelper-1.3.0\AndroidManifest.xml:17:1-26:12
+ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:22:1-122:12
+INJECTED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:22:1-122:12
+INJECTED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:22:1-122:12
+INJECTED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:22:1-122:12
+MERGED from [com.google.androidbrowserhelper:androidbrowserhelper:1.3.1] C:\Users\alexr\.gradle\caches\transforms-2\files-2.1\e77284d1a49df48f781af65620f9614a\androidbrowserhelper-1.3.1\AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\alexr\.gradle\caches\transforms-2\files-2.1\cd9a11efb8824141eae6177e48d8bb33\appcompat-1.0.2\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.browser:browser:1.2.0] C:\Users\alexr\.gradle\caches\transforms-2\files-2.1\8bb87a481e569a8e0e4ba92f809d1c33\browser-1.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\alexr\.gradle\caches\transforms-2\files-2.1\8718f4f7a722839a38426b146f3f6f34\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -32,25 +32,25 @@ MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\alexr\.gradle\
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\alexr\.gradle\caches\transforms-2\files-2.1\311501f952435c5b879fdf21b71e9a0b\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\alexr\.gradle\caches\transforms-2\files-2.1\4c348d7ab662aecd144684d8549db796\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\alexr\.gradle\caches\transforms-2\files-2.1\61f00780d08bc7c8506a1055176e8bb7\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:22:1-119:12
-INJECTED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:22:1-119:12
-INJECTED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:22:1-119:12
+INJECTED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:22:1-122:12
+INJECTED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:22:1-122:12
+INJECTED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:22:1-122:12
 	package
 		ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:23:5-26
 		INJECTED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:22:1-119:12
+		ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:22:1-122:12
 		INJECTED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:22:1-119:12
+		ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:22:1-122:12
 		INJECTED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:22:11-69
 application
-ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:27:5-118:19
+ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:27:5-121:19
 MERGED from [androidx.core:core:1.1.0] C:\Users\alexr\.gradle\caches\transforms-2\files-2.1\8dca7814ee2bb9f90ee3f0ba01d547b8\core-1.1.0\AndroidManifest.xml:24:5-89
 MERGED from [androidx.core:core:1.1.0] C:\Users\alexr\.gradle\caches\transforms-2\files-2.1\8dca7814ee2bb9f90ee3f0ba01d547b8\core-1.1.0\AndroidManifest.xml:24:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\alexr\.gradle\caches\transforms-2\files-2.1\208371745c4658fe8633bf3d644bf6e5\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
@@ -86,7 +86,7 @@ ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\
 	android:name
 		ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:45:13-41
 activity#com.google.androidbrowserhelper.trusted.LauncherActivity
-ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:48:9-90:20
+ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:48:9-91:20
 	android:label
 		ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:49:13-49
 	android:name
@@ -146,83 +146,83 @@ ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\
 	android:name
 		ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:75:24-91
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:78:13-81:29
+ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:79:13-82:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:79:17-69
+ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:80:17-69
 	android:name
-		ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:79:25-66
+		ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:80:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:80:17-77
+ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:81:17-77
 	android:name
-		ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:80:27-74
+		ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:81:27-74
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:@string/hostName+data:scheme:https
-ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:83:13-89:29
+ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:84:13-90:29
 	android:autoVerify
-		ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:83:28-53
+		ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:84:28-53
 action#android.intent.action.VIEW
-ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:84:17-68
+ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:85:17-68
 	android:name
-		ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:84:25-66
+		ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:85:25-66
 category#android.intent.category.DEFAULT
-ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:85:17-76
+ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:86:17-76
 	android:name
-		ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:85:27-73
+		ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:86:27-73
 category#android.intent.category.BROWSABLE
-ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:86:17-77
+ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:87:17-77
 	android:name
-		ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:86:27-75
+		ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:87:27-75
 data
-ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:87:17-88:54
+ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:88:17-89:54
 	android:host
-		ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:88:21-52
+		ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:89:21-52
 	android:scheme
-		ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:87:23-45
+		ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:88:23-45
 activity#com.google.androidbrowserhelper.trusted.FocusActivity
-ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:92:9-90
+ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:93:9-90
 	android:name
-		ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:92:19-87
+		ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:93:19-87
 activity#com.google.androidbrowserhelper.trusted.WebViewFallbackActivity
-ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:94:9-95:62
+ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:95:9-96:62
 	android:configChanges
-		ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:95:13-59
+		ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:96:13-59
 	android:name
-		ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:94:19-97
+		ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:95:19-97
 provider#androidx.core.content.FileProvider
-ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:97:9-105:20
+ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:98:9-106:20
 	android:grantUriPermissions
-		ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:100:13-47
+		ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:101:13-47
 	android:authorities
-		ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:99:13-60
+		ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:100:13-60
 	android:exported
-		ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:101:13-37
+		ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:102:13-37
 	android:name
-		ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:98:13-62
+		ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:99:13-62
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:102:13-104:53
+ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:103:13-105:53
 	android:resource
-		ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:104:17-50
+		ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:105:17-50
 	android:name
-		ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:103:17-67
+		ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:104:17-67
 service#com.google.androidbrowserhelper.trusted.DelegationService
-ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:107:9-116:20
+ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:108:9-119:20
 	android:enabled
-		ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:109:14-56
+		ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:110:13-55
 	android:exported
-		ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:110:14-57
+		ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:111:13-56
 	android:name
-		ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:108:14-86
+		ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:109:13-85
 intent-filter#action:name:android.support.customtabs.trusted.TRUSTED_WEB_ACTIVITY_SERVICE+category:name:android.intent.category.DEFAULT
-ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:112:14-115:30
+ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:115:13-118:29
 action#android.support.customtabs.trusted.TRUSTED_WEB_ACTIVITY_SERVICE
-ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:113:18-106
+ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:116:17-105
 	android:name
-		ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:113:26-104
+		ADDED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml:116:25-103
 uses-sdk
 INJECTED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\alexr\Documents\GitHub\Rule-34-App-Android\src\app\src\main\AndroidManifest.xml
-MERGED from [com.google.androidbrowserhelper:androidbrowserhelper:1.3.0] C:\Users\alexr\.gradle\caches\transforms-2\files-2.1\55e48e5aafe2662b666e5be86ed8a2da\androidbrowserhelper-1.3.0\AndroidManifest.xml:22:5-24:41
-MERGED from [com.google.androidbrowserhelper:androidbrowserhelper:1.3.0] C:\Users\alexr\.gradle\caches\transforms-2\files-2.1\55e48e5aafe2662b666e5be86ed8a2da\androidbrowserhelper-1.3.0\AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.androidbrowserhelper:androidbrowserhelper:1.3.1] C:\Users\alexr\.gradle\caches\transforms-2\files-2.1\e77284d1a49df48f781af65620f9614a\androidbrowserhelper-1.3.1\AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.androidbrowserhelper:androidbrowserhelper:1.3.1] C:\Users\alexr\.gradle\caches\transforms-2\files-2.1\e77284d1a49df48f781af65620f9614a\androidbrowserhelper-1.3.1\AndroidManifest.xml:22:5-24:41
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\alexr\.gradle\caches\transforms-2\files-2.1\cd9a11efb8824141eae6177e48d8bb33\appcompat-1.0.2\AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\alexr\.gradle\caches\transforms-2\files-2.1\cd9a11efb8824141eae6177e48d8bb33\appcompat-1.0.2\AndroidManifest.xml:20:5-44
 MERGED from [androidx.browser:browser:1.2.0] C:\Users\alexr\.gradle\caches\transforms-2\files-2.1\8bb87a481e569a8e0e4ba92f809d1c33\browser-1.2.0\AndroidManifest.xml:20:5-22:41
