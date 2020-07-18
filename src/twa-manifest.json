@@ -3,6 +3,7 @@
   "host": "r34.app",
   "name": "Rule 34 App",
   "launcherName": "Rule 34 App",
+  "display": "standalone",
   "themeColor": "#121212",
   "navigationColor": "#000000",
   "backgroundColor": "#121212",
@@ -14,11 +15,11 @@
     "alias": "android",
     "path": "./android.keystore"
   },
-  "appVersionName": "1",
-  "appVersionCode": 1,
+  "appVersionName": "2",
+  "appVersionCode": 2,
   "shortcuts": [],
   "generatorApp": "bubblewrap-cli",
   "webManifestUrl": "https://r34.app/_nuxt/manifest.2e2714b0.json",
   "fallbackType": "customtabs",
-  "appVersion": "1"
+  "appVersion": "2"
 }
