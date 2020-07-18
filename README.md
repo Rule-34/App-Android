@@ -17,6 +17,9 @@ This project generates an android APK using TWA thanks to [Bubblewrap](https://g
 # Init
 bubblewrap init --manifest https://r34.app/_nuxt/manifest.<UNKNOWN>.json
 
+# Update
+bubblewrap update
+
 # Build
 bubblewrap build --skipPwaValidation
 ```
