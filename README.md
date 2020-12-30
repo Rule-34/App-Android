@@ -6,7 +6,9 @@ This project generates an Android APK of the [Rule 34 App](https://redirect.r34.
 
 This is just an alternative to the PWA and **should NOT be used**, as there is no way to auto update.
 
-The recommended way to install the [Rule 34 App](https://redirect.r34.app/github) is as a PWA through your Browser.
+The recommended way to install the [Rule 34 App](https://redirect.r34.app/github) is as a PWA through your browser.
+
+Learn more about [installing the Rule 34 App](https://www.notion.so/alejandroakbal/App-Installation-5b1be2062ffe48bda39ac1236421fc84).
 
 ## Download
 
